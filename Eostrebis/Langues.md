@@ -6,12 +6,10 @@ Les langues parlée sur Eostrebis sont multiples.
 ## Outre-Commun
 
 ## Nain
-![[Nain.png]]
+![[nain_white.png]]
 
 ## Elfique
 
 ## Draconique
 
 ## Aquatique
-
-## Féerique

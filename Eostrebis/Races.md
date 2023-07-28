@@ -126,7 +126,7 @@ Après avoir utilisé votre Souffle Mécanique, vous devez terminer un repos lon
 
 **Type de Créature.** Vous êtes un humanoïde.
 
-**Langage.** Vous parlez le Commun et le Nain. Le Nain est remplie de consonnes dures et de sons gutturaux, et ces caractéristiques débordent sur la langue qu'un nain parle, quelle qu'elle soit.
+**Langage.** Vous parlez l'Outre-Commun et le Nain. Le Nain est remplie de consonnes dures et de sons gutturaux, et ces caractéristiques débordent sur la langue qu'un nain parle, quelle qu'elle soit.
 
 **Âge.** Les nains grandissent à la même vitesse que les humains, mais ne sont considérés comme mature qu'à partir de 50 ans. En moyenne, ils vivent jusque 350 ans.
 
@@ -339,7 +339,7 @@ La caractéristique utilisée pour le lancement est, au choix, à choisir au mom
 
 **Type de Créature.** Vous êtes un humanoïde.
 
-**Langage.** Vous parlez le Commun et l'Aquatique.
+**Langage.** Vous parlez l'Aquatique et l'Elfique. L'Elfique est fluide, avec de subtiles intonations et une grammaire complexe. La littérature elfique est riche et variée, et leurs chansons et poèmes sont connus même des autres races. Beaucoup de bardes apprennent ce langage afin de pouvoir ajouter les ballades elfes à leur répertoire.
 
 **Âge.** Bien que les elfes atteignent la maturité physique à peu près au même âge que les humains, pour les elfes la définition de l'âge adulte dépend plus de l'expérience que l'on peut avoir du monde que de la croissance physique. Un elfe prétend généralement à l'âge adulte et à un nom d'adulte aux alentours de ses 100 ans et peut vivre jusqu'à 750 ans.
 
@@ -361,11 +361,13 @@ La caractéristique utilisée pour le lancement est, au choix, à choisir au mom
 
 ## Shadar-kai
 
+### Mécaniques
+
 **Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnages, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : DEX +2, CHA +1*)
 
 **Type de Créature.** Vous êtes un humanoïde.
 
-**Langage.** Vous parlez le Commun et le .
+**Langage.** Vous parlez l'Ombre-Commun et l'Elfique.
 
 **Âge.** Bien que les elfes atteignent la maturité physique à peu près au même âge que les humains, pour les elfes la définition de l'âge adulte dépend plus de l'expérience que l'on peut avoir du monde que de la croissance physique. Un elfe prétend généralement à l'âge adulte et à un nom d'adulte aux alentours de ses 100 ans et peut vivre jusqu'à 750 ans.
 
@@ -381,9 +383,38 @@ La caractéristique utilisée pour le lancement est, au choix, à choisir au mom
 
 **Transe.** Les elfes n'ont pas besoin de dormir. Au lieu de cela, ils méditent profondément, restant à demi conscients, 4 heures par jour (le mot commun pour désigner cette méditation est « transe »). En méditant, vous pouvez rêver, tant bien que mal ; ces rêves sont en fait des exercices mentaux qui deviennent un réflexe après des années de pratique. Après un repos de ce type, vous obtenez les mêmes avantages qu'un humain après 8 heures de sommeil.
 
-**Enfant de la Mer.** Vous pouvez respirez dans et en dehors de l'eau, et vous avez la résistance aux dégâts de froid.
+**Résistance Nécrotique.** Vous avez la résistance aux dégâts nécrotiques.
+
+**Bénédiction de la Reine Corbeau.** En utilisant une action bonus, vous pouvez magiquement vous téléporter jusqu'à 30 ft. (9m/6 cases) sur un emplacement que vous pouvez voir. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous finissez un repos long.
+À partir du niveau 3, vous gagnez également la résistance à tous les dégâts lorsque vous vous téléportez en utilisant ce trait. Cette résistance persiste jusqu'au début de votre prochain tour. Pendant ce temps, vous êtes translucide et fantomatique.
 
 ## Elfe Astral
+
+### Mécaniques
+
+**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnages, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : DEX +2, INT +1*)
+
+**Type de Créature.** Vous êtes un humanoïde.
+
+**Langage.** Vous parlez le Commun et l'Elfique.
+
+**Âge.** Bien que les elfes atteignent la maturité physique à peu près au même âge que les humains, pour les elfes la définition de l'âge adulte dépend plus de l'expérience que l'on peut avoir du monde que de la croissance physique. Un elfe prétend généralement à l'âge adulte et à un nom d'adulte aux alentours de ses 100 ans et peut vivre jusqu'à 750 ans.
+
+**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est _Moyenne (M)_.
+
+**Vitesse.** Votre vitesse de base est de 30 ft. (9m/6 cases). Vous avez une vitesse de base égale à votre vitesse de base.
+
+**Vision dans le noir.** Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+
+**Sens Aiguisés.** Vous maîtrisez la compétence Perception.
+
+**Ascendance Féerique.** Vous avez l'avantage aux jets de sauvegarde contre les effets de charme et la magie ne peut pas vous endormir.
+
+**Transe Astrale.** Les elfes n'ont pas besoin de dormir. Au lieu de cela, ils méditent profondément, restant à demi conscients, 4 heures par jour (le mot commun pour désigner cette méditation est « transe »). Après un repos de ce type, vous obtenez les mêmes avantages qu'un humain après 8 heures de sommeil. À chaque fois que vous finissez cette transe, vous maîtrisez un compétence de votre choix, ainsi qu'une arme ou un outil de votre choix. Vous possédez ces maîtrises magiquement en puisant dans la mémoire partagée elfe du Plan Astral, et vous les gardez jusqu'à ce que vous finissiez votre prochain repos long.
+
+**Feu Astral.** Vous connaissez l'un des cantrips suivants de votre choix : *Lumières Dansantes*, _Lumière_, ou _Flammes Sacrées_. La caractéristique d'incantation pour ce sort est, au choix, l'Intelligence, la Sagesse, ou le Charisme.
+
+**Pas d'Étoile.** En utilisant une action bonus, vous pouvez magiquement vous téléporter jusqu'à 30 ft. (9m/6 cases) sur un emplacement que vous pouvez voir. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous finissez un repos long.
 
 # Gnome
 
@@ -397,9 +428,9 @@ La caractéristique utilisée pour le lancement est, au choix, à choisir au mom
 
 ## Halfelin sagespectre
 
-## halfelin pied-léger
+## Halfelin pied-léger
 
-## halfelin robuste
+## Halfelin robuste
 
 # Humain
 
@@ -407,9 +438,9 @@ La caractéristique utilisée pour le lancement est, au choix, à choisir au mom
 
 # Tieflin
 
-## tieflin démoniaque
+## Tieflin démoniaque
 
-## tieflin féral
+## Tieflin féral
 
 # Aasimar
 
@@ -417,13 +448,13 @@ La caractéristique utilisée pour le lancement est, au choix, à choisir au mom
 
 # Genasi
 
-## Genasi de l'air
+## Genasi de l'Air
 
-## genasi de l'eau
+## Genasi de l'Eau
 
-## genasi du feu
+## Genasi du Feu
 
-## genasi de la terre
+## Genasi de la Terre
 
 # Gobelours
 
@@ -439,7 +470,7 @@ La caractéristique utilisée pour le lancement est, au choix, à choisir au mom
 
 ## Githyanki
 
-## githzerai
+## Githzerai
 
 # Gobelin
 
@@ -485,17 +516,17 @@ La caractéristique utilisée pour le lancement est, au choix, à choisir au mom
 
 ## Biscuit
 
-## marionette
+## Marionnette
 
-## peluche
+## Peluche
 
 # Mandragore
 
 # Homme-souris
 
-## homme-souris
+## Homme-souris
 
-## homme-rat
+## Homme-rat
 
 # Autognome
 
