@@ -1,0 +1,1 @@
+Dargath (Ville) est la capitale de [[Dargath (Pays)]].
