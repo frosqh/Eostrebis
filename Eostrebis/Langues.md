@@ -7,6 +7,7 @@ Les langues parlée sur Eostrebis sont multiples.
 
 ## Nain
 ![[nain_white.png]]
+### Gnomique
 
 ## Elfique
 

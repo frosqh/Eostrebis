@@ -402,7 +402,7 @@ La caractéristique utilisée pour le lancement est, au choix, à choisir au mom
 
 **Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est _Moyenne (M)_.
 
-**Vitesse.** Votre vitesse de base est de 30 ft. (9m/6 cases). Vous avez une vitesse de base égale à votre vitesse de base.
+**Vitesse.** Votre vitesse de base est de 30 ft. (9m/6 cases).
 
 **Vision dans le noir.** Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
@@ -418,7 +418,29 @@ La caractéristique utilisée pour le lancement est, au choix, à choisir au mom
 
 # Gnome
 
-## Gnome des profondeurs
+## Gnome des profondeurs (Svirfneblin)
+
+### Mécaniques
+
+**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnages, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : INT +2, DEX +1*)
+
+**Type de Créature.** Vous êtes un humanoïde.
+
+**Langage.** Vous parlez l'Outre-Commun et le Gnomique. Le Gnomique, qui utilise l'alphabet Nain, est renommé pour ses documents techniques et autres catalogues de savoir.
+
+**Âge.** Les svirfneblin vivent peu longtemps pour des gnomes. Ils grandissent à la même vitesse que les humains, et sont considérés adultes à l'âge de 25 ans. Ils vivent entre 200 et 250 ans, même si les dangers et le travail incessant de l'Outre-Terre les emportent généralement plus tôt.
+
+**Taille.** Les svirfneblin mesurent entre 90cm et 1m, et pèsent entre 35 et 60kg. Votre taille est _Petite (P)_.
+
+**Vitesse.** Votre vitesse de base est de 30 ft. (9m/6 cases). 
+
+**Vision dans le noir.** Habitué à vivre sous terre, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 120 ft. (36m/24 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+
+**Résistance Magique Gnome.** Vous avez l'avantage aux jets de sauvegarde d'Intelligence, de Sagesse ou de Charisme contre les sorts.
+
+**Camouflage Svirfneblin.** Lorsque vous faîtes un jet de Dextérité (Discrétion), vous pouvez réaliser ce jet avec l'avantage. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations lorsque vous avez fini un repos long.
+
+**Don des Svirfneblin.** À partir du niveau 3, vous pouvez lancer le sort __
 
 ## Gnome des forêts
 
