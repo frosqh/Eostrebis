@@ -1,4 +1,6 @@
+
 Différentes races sont disponibles dans le monde :
+
 
 # Drakéïde
 
@@ -266,11 +268,11 @@ La caractéristique utilisée pour le lancement est, au choix, à choisir au mom
 
 ### Mécaniques
 
-**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnages, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : DEX +2, CHA +1*)
+**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnages, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : DEX +2, INT +1*)
 
 **Type de Créature.** Vous êtes un humanoïde.
 
-**Langage.** Vous parlez le Commun et l'Elfique. L'Elfique est fluide, avec de subtiles intonations et une grammaire complexe. La littérature elfique est riche et variée, et leurs chansons et poèmes sont connus même des autres races. Beaucoup de bardes apprennent ce langage afin de pouvoir ajouter les ballades elfes à leur répertoire.
+**Langage.** Vous parlez l'Outre-Commun et l'Elfique. L'Elfique est fluide, avec de subtiles intonations et une grammaire complexe. La littérature elfique est riche et variée, et leurs chansons et poèmes sont connus même des autres races. Beaucoup de bardes apprennent ce langage afin de pouvoir ajouter les ballades elfes à leur répertoire.
 
 **Âge.** Bien que les elfes atteignent la maturité physique à peu près au même âge que les humains, pour les elfes la définition de l'âge adulte dépend plus de l'expérience que l'on peut avoir du monde que de la croissance physique. Un elfe prétend généralement à l'âge adulte et à un nom d'adulte aux alentours de ses 100 ans et peut vivre jusqu'à 750 ans.
 
@@ -298,7 +300,7 @@ La caractéristique utilisée pour le lancement est, au choix, à choisir au mom
 
 ### Mécaniques
 
-**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnages, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : DEX +2, CHA +1*)
+**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnages, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : DEX +2, WIS +1*)
 
 **Type de Créature.** Vous êtes un humanoïde.
 
@@ -310,7 +312,7 @@ La caractéristique utilisée pour le lancement est, au choix, à choisir au mom
 
 **Vitesse.** Votre vitesse de base est de 30 ft. (9m/6 cases).
 
-**Vision dans le noir.** Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 120 ft. (36m/24 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le noir.** Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Sens Aiguisés.** Vous maîtrisez la compétence Perception.
 
@@ -331,7 +333,55 @@ La caractéristique utilisée pour le lancement est, au choix, à choisir au mom
 
 ## Elfe des Mers
 
+### Mécaniques
+
+**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnages, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : DEX +2, CON +1*)
+
+**Type de Créature.** Vous êtes un humanoïde.
+
+**Langage.** Vous parlez le Commun et l'Aquatique.
+
+**Âge.** Bien que les elfes atteignent la maturité physique à peu près au même âge que les humains, pour les elfes la définition de l'âge adulte dépend plus de l'expérience que l'on peut avoir du monde que de la croissance physique. Un elfe prétend généralement à l'âge adulte et à un nom d'adulte aux alentours de ses 100 ans et peut vivre jusqu'à 750 ans.
+
+**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est _Moyenne (M)_.
+
+**Vitesse.** Votre vitesse de base est de 30 ft. (9m/6 cases). Vous avez une vitesse de base égale à votre vitesse de base.
+
+**Vision dans le noir.** Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+
+**Sens Aiguisés.** Vous maîtrisez la compétence Perception.
+
+**Ascendance Féerique.** Vous avez l'avantage aux jets de sauvegarde contre les effets de charme et la magie ne peut pas vous endormir.
+
+**Transe.** Les elfes n'ont pas besoin de dormir. Au lieu de cela, ils méditent profondément, restant à demi conscients, 4 heures par jour (le mot commun pour désigner cette méditation est « transe »). En méditant, vous pouvez rêver, tant bien que mal ; ces rêves sont en fait des exercices mentaux qui deviennent un réflexe après des années de pratique. Après un repos de ce type, vous obtenez les mêmes avantages qu'un humain après 8 heures de sommeil.
+
+**Enfant de la Mer.** Vous pouvez respirez dans et en dehors de l'eau, et vous avez la résistance aux dégâts de froid.
+
+**Ami de la Mer.** Les animaux aquatiques ont une grande affinité avec votre peuple. Vous pouvez communiquer des idées simples à n'importe quelle Bête qui a une vitesse de nage. Elle peut vous comprendre, mais vous n'avez aucun moyen de les comprendre en retour.
+
 ## Shadar-kai
+
+**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnages, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : DEX +2, CHA +1*)
+
+**Type de Créature.** Vous êtes un humanoïde.
+
+**Langage.** Vous parlez le Commun et le .
+
+**Âge.** Bien que les elfes atteignent la maturité physique à peu près au même âge que les humains, pour les elfes la définition de l'âge adulte dépend plus de l'expérience que l'on peut avoir du monde que de la croissance physique. Un elfe prétend généralement à l'âge adulte et à un nom d'adulte aux alentours de ses 100 ans et peut vivre jusqu'à 750 ans.
+
+**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est _Moyenne (M)_.
+
+**Vitesse.** Votre vitesse de base est de 30 ft. (9m/6 cases). Vous avez une vitesse de base égale à votre vitesse de base.
+
+**Vision dans le noir.** Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+
+**Sens Aiguisés.** Vous maîtrisez la compétence Perception.
+
+**Ascendance Féerique.** Vous avez l'avantage aux jets de sauvegarde contre les effets de charme et la magie ne peut pas vous endormir.
+
+**Transe.** Les elfes n'ont pas besoin de dormir. Au lieu de cela, ils méditent profondément, restant à demi conscients, 4 heures par jour (le mot commun pour désigner cette méditation est « transe »). En méditant, vous pouvez rêver, tant bien que mal ; ces rêves sont en fait des exercices mentaux qui deviennent un réflexe après des années de pratique. Après un repos de ce type, vous obtenez les mêmes avantages qu'un humain après 8 heures de sommeil.
+
+**Enfant de la Mer.** Vous pouvez respirez dans et en dehors de l'eau, et vous avez la résistance aux dégâts de froid.
 
 ## Elfe Astral
 
