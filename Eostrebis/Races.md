@@ -28,13 +28,13 @@ Différentes races sont disponibles dans le monde :
 
 **Ascendance chromatique.** Vous avez un ancêtre qui est un dragon chromatique, qui vous confère une capacité magique spéciale. Choisissez l'un des types de dragon de la table ci-dessous. Cela détermine le type de dégâts d'autres traits.
 
-|Dragon|Type de dégâts|
-|----------|----------------------|
-|Blanc|Froid|
-|Bleu|Foudre|
-|Noir|Acide|
-|Rouge|Feu|
-|Vert|Poison|
+| Dragon | Type de dégâts |
+| ------ | -------------- |
+| Blanc  | Froid          |
+| Bleu   | Foudre         |
+| Noir   | Acide          |
+| Rouge  | Feu            |
+| Vert   | Poison         |
 
 **Souffle.** Lorsque vous effectuez l'action Attaquer à votre tour, vous pouvez remplacez l'une de vos attaques par un souffle d'énergie magique dans une ligne de 30 ft. par 5 ft. (9m par 1.5m/6 cases par 1 case). Chaque créature dans cette zone doit faire un jet de sauvegarde de Dextérité (DC = 8 + CON mod. + Prof.). En cas d’échec, la créature prend 1d10 dégâts du type associé à votre ascendance chromatique. Sur une réussite, elle prend la moitié des dégâts. Ces dégâts augmentent de 1d10 quand vous arrivez au niveau 5 (2d10), 11 (3d10), et 17 (4d10).
 Vous pouvez utiliser votre Souffle un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensée lorsque vous terminez un repos long.
@@ -61,13 +61,13 @@ Vous pouvez utiliser votre Souffle un nombre de fois égal à votre bonus de ma�
 
 **Ascendance diamantine.** Vous avez un ancêtre qui est un dragon diamantin, qui vous confère une capacité magique spéciale. Choisissez l'un des types de dragon de la table ci-dessous. Cela détermine le type de dégâts d'autres traits.
 
-|Dragon|Type de dégâts|
-|----------|----------------------|
-|Améthyste|Force|
-|Cristal|Radiant|
-|Émeraude|Psychique|
-|Saphir|Tonnerre|
-|Topaze|Nécrotique|
+| Dragon    | Type de dégâts |
+| --------- | -------------- |
+| Améthyste | Force          |
+| Cristal   | Radiant        |
+| Saphir    | Tonnerre       |
+| Topaze    | Nécrotique     |
+| Émeraude  | Psychique      |
 
 **Souffle.** Lorsque vous effectuez l'action Attaquer à votre tour, vous pouvez remplacez l'une de vos attaques par un souffle d'énergie magique dans un cône de 15 ft. (4.5m/3 cases). Chaque créature dans cette zone doit faire un jet de sauvegarde de Dextérité (DC = 8 + CON mod. + Prof.). En cas d’échec, la créature prend 1d10 dégâts du type associé à votre ascendance diamantine. Sur une réussite, elle prend la moitié des dégâts. Ces dégâts augmentent de 1d10 quand vous arrivez au niveau 5 (2d10), 11 (3d10), et 17 (4d10).
 Vous pouvez utiliser votre Souffle un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensée lorsque vous terminez un repos long.
@@ -95,13 +95,13 @@ Vous pouvez utiliser votre Souffle un nombre de fois égal à votre bonus de ma�
 
 **Ascendance métallique.** Vous avez un ancêtre qui est un dragon métallique, qui vous confère une capacité magique spéciale. Choisissez l'un des types de dragon de la table ci-dessous. Cela détermine le type de dégâts d'autres traits.
 
-|Dragon|Type de dégâts|
-|----------|----------------------|
-|Argent|Froid|
-|Bronze|Foudre|
-|Cuivre|Acide|
-|Laiton|Feu|
-|Or|Feu|
+| Dragon | Type de dégâts |
+| ------ | -------------- |
+| Argent | Froid          |
+| Bronze | Foudre         |
+| Cuivre | Acide          |
+| Laiton | Feu            |
+| Or     | Feu            |
 
 **Souffle.** Lorsque vous effectuez l'action Attaquer à votre tour, vous pouvez remplacez l'une de vos attaques par un souffle d'énergie magique dans un cône de 15 ft. (4.5m/3 cases). Chaque créature dans cette zone doit faire un jet de sauvegarde de Dextérité (DC = 8 + CON mod. + Prof.). En cas d’échec, la créature prend 1d10 dégâts du type associé à votre ascendance métallique. Sur une réussite, elle prend la moitié des dégâts. Ces dégâts augmentent de 1d10 quand vous arrivez au niveau 5 (2d10), 11 (3d10), et 17 (4d10).
 Vous pouvez utiliser votre Souffle un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensée lorsque vous terminez un repos long.
