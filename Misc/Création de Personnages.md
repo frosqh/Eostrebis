@@ -185,4 +185,34 @@ Votre modificateur de Constitution contribue à vos points de vie. En général,
 Si votre modificateur de Constitution change, votre maximum de points de vie change aussi, comme si vous aviez le nouveau modificateur dès le niveau 1. Par exemple, si vous augmentez votre valeur de Constitution lorsque vous atteignez le niveau 4 et que votre modificateur de Constitution passe de +1 à +2, vous ajustez votre maximum de points de vie comme si le modificateur avait toujours été +2. Vous ajoutez donc 3 points de vie pour vos trois premiers niveaux, puis lancez le dé pour vos points de vie du niveau 4 en utilisant votre nouveau modificateur. Ou bien, si vous êtes de niveau 7 et qu'un effet réduit votre valeur de Constitution avec comme conséquence de réduire votre modificateur de Constitution de 1, votre maximum de points de vie est réduit de 7.
 
 ### Intelligence
-L'Intelligence détermine l'acuité mentale, la précision de la mémoire et la
+L'Intelligence détermine l'acuité mentale, la précision de la mémoire et la capacité à raisonner
+
+#### Jets d'Intelligence
+Un jet d'Intelligence est nécessaire lorsque vous avez besoin de vous appuyer sur la logique, l'éducation, la mémoire, le raisonnement ou la déduction. Les compétences Arcanes, Histoire, Investigation, Nature et Religion reflètent une aptitude à certains type de jets d'Intelligence.
+
+**Arcanes.** Un jet d'Intelligence (Arcanes) évalue votre aptitude à vous rappeler des choses à propos de sorts, d'objets magiques, de symboles occultes, de traditions magiques, de plans d'existence ou des habitants de ces plans.
+
+**Histoire.** Un jet d'Intelligence (Histoire) évalue votre aptitude à vous rappeler des choses à propos d'évènements historiques, de personnages légendaires, d'anciens royaumes, de conflits passés, de guerres récentes et de civilisation perdues.
+
+**Investigation.** Lorsque vous regardez autour de vous pour trouver des indices et faire des déductions sur la base de ces indices, vous faites un jet d'Intelligence (Investigation). Vous pouvez en déduire l'emplacement d'un objet caché, discerner en fonction de l'apparence d'une blessure le type d'arme utilisée, ou déterminer le point faible dans un tunnel pour causer son effondrement. Se pencher sur d'anciens manuscrits à la recherche d'informations cachées peut aussi demander un jet d'Intelligence (Investigation).
+
+**Nature.** Un jet d'Intelligence (Nature) évalue votre aptitude à vous rappeler des informations sur un type de terrain, des plantes ou des animaux, la météo et les cycles naturels.
+
+**Religion.** Un jet d'Intelligence (Religion) évalue votre aptitude à vous rappeler des choses à propos des dieux, des rites et des prières, la hiérarchie religieuse, les symboles sacrés et les pratiques de cultes secrets.
+
+**Autres jets d'Intelligence.** Le MJ peut également demander un jet d'Intelligence lorsque vous essayez de réaliser l'une des tâches suivantes : 
+ - Communiquer avec une créature sans utiliser de mots
+ - Estimer la valeur d'un objet précieux
+ - Se déguiser pour tromper un garde de la ville
+ - Falsifier un document
+ - Connaître quelque chose à propos d'un métier ou d'un commerce
+ - Gagner à un jeu de compétences
+
+#### Capacité de Lancer de Sorts
+Les magiciens utilisent l'Intelligence comme caractéristique d'incantation, ce qui permet de déterminer le DD des jets de sauvegarde des sorts qu'ils lancent.
+
+### Sagesse
+La Sagesse reflète la façon dont vous êtes à l'écoute du monde autour de vous, ainsi que la perspicacité et l'intuition.
+
+#### Jets de Sagesse
+Un jet de Sagesse peut refléter l'effort pour lire le lange du corps, comprendre les sentiments de quelqu'un, noter quelque chose dans l'environnement ou soigner une personne blessée. Les compétences Dressage, Intuition, Médecine, Perception et Survie reflètent une aptitude à certains types de jets de Sagesse.
