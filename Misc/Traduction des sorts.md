@@ -61,5 +61,33 @@
 | Catapult                    | Catapulte                             |
 | Catnap                      | Sieste                                |
 | Cause Fear                  | Frayeur                               |
-|                             |                                       |
-|                             |                                       |
+| Ceremony                    | Cérémonie                             |
+| Chain Lightning             | Chaîne d'éclairs                      |
+| Chaos Bolt                  | Éclair de Chaos                       |
+| Charm Monster               | Charme-monstre                        |
+| Charm Person                | Charme-personne                       |
+| Chill Touch                 | Contact Glacial                       |
+| Chromatic Orb               | Orbe Chromatique                      |
+| Circle of Death             | Cercle de Mort                        |
+| Circle of Power             | Cercle de Pouvoir                     |
+| Clairvoyance                | Clairvoyance                          |
+| Clone                       | Clone                                 |
+| Cloud of Daggers            | Nuée de Dagues                        |
+| Cloudkill                   | Brume Mortelle                        |
+| Color Spray                 | Couleurs Dansantes                    |
+| Command                     | Injonction                            |
+| Commune                     | Communion                             |
+| Commune with Nature         | Communion avec la Nature              |
+| Compelled Duel              | Duel Forcé                            |
+| Comprehend Languages        | Compréhension des Langues             |
+| Compulsion                  | Compulsion                            |
+| Cone of Cold                | Cône de Froid                         |
+| Confusion                   | Confusion                             |
+| Conjure Animals             | Invocation d'Animaux                  |
+| Conjure Barrage             | Invocation de Projectiles             |
+| Conjure Celestial           | Invocation de Céleste                 |
+| Conjure Elemental           | Invocation d'Élementaire              |
+| Conjure Fey                 | Invocation de fée                     |
+| Conjure Minor Elementals    | Invocation d'Élementaires mineurs     |
+| Conjure Volley              | Invocation de Volée                   |
+| Conjure Woodland Beings     | Invocation d'                                      |
