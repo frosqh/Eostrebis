@@ -287,3 +287,5 @@ Un jet de Charisme peut être nécessaire lorsque vous essayez d'influencer ou d
 #### Capacité de lancer de sorts
 Les bardes, les ensorceleurs, les occultistes et les paladins utilisent le Charisme comme caractéristique d'incantation, ce qui permet de déterminer le DC des jets de sauvegarde des sorts qu'ils lancent.
 
+# Décrire son personnage
+Une fois que vous avez déterminer la base de jeu de votre personnage, il est temps de l'étoffer et de lui donner "vie". Votre personnage a besoin d'un nom ! Passez aussi quelques instants à réfléchir à quoi il ressemble et comment il se comporte.
