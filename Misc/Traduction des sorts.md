@@ -128,7 +128,7 @@
 | Detect Magic                | Détection de la magie                 |
 | Detect Poison and Diseases  | Détection du poison et des maladies   |
 | Detect Thoughts             | Détection des Pensées                 |
-| Dimension Door              | Porte Dimensionelle                   |
+| Dimension Door              | Porte Dimensionnelle                   |
 | Disguise Self               | Déguisement                           |
 | Disintegrate                | Désintégration                        |
 | Dispel Evil and good        | Dissipation du Mal et du Bien         |
@@ -159,7 +159,7 @@
 | Enemies Abounds             | Ennemis à Foison                      |
 | Enervation                  | Énervation                            |
 | Enhance Ability             | Amélioration de Caractéristiques      |
-| Enlarge/Reduce              | Agrandissment/Rapetissement           |
+| Enlarge/Reduce              | Agrandissement/Rapetissement           |
 | Ensnaring Strike            | Frappe Piégeuse                       |
 | Entangle                    | Enchevêtrement                        |
 | Enthrall                    | Discours Captivant                    |
@@ -169,6 +169,6 @@
 | Expeditious Retreat         | Repli Expéditif                       |
 | Eyebite                     | Mauvais œil                           |
 | Fabricate                   | Fabrication                           |
-| Faerie Fire                 | Lueurs Féériques                      |
+| Faerie Fire                 | Lueurs Féeriques                      |
 | False Life                  | Simulacre de Vie                      |
 | Faithful Hound              |                                       |
