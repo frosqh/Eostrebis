@@ -128,7 +128,7 @@
 | Detect Magic                | Détection de la magie                 |
 | Detect Poison and Diseases  | Détection du poison et des maladies   |
 | Detect Thoughts             | Détection des Pensées                 |
-| Dimension Door              | Porte Dimensionnelle                   |
+| Dimension Door              | Porte Dimensionnelle                  |
 | Disguise Self               | Déguisement                           |
 | Disintegrate                | Désintégration                        |
 | Dispel Evil and good        | Dissipation du Mal et du Bien         |
@@ -159,7 +159,7 @@
 | Enemies Abounds             | Ennemis à Foison                      |
 | Enervation                  | Énervation                            |
 | Enhance Ability             | Amélioration de Caractéristiques      |
-| Enlarge/Reduce              | Agrandissement/Rapetissement           |
+| Enlarge/Reduce              | Agrandissement/Rapetissement          |
 | Ensnaring Strike            | Frappe Piégeuse                       |
 | Entangle                    | Enchevêtrement                        |
 | Enthrall                    | Discours Captivant                    |
@@ -171,4 +171,14 @@
 | Fabricate                   | Fabrication                           |
 | Faerie Fire                 | Lueurs Féeriques                      |
 | False Life                  | Simulacre de Vie                      |
-| Faithful Hound              |                                       |
+| Faithful Hound              | Fidèle Molosse                        |
+| Far Step                    | Foulée Dimensionnelle                 |
+| Fast Friends                | Amitié Rapide                         |
+| Fear                        | Peur                                  |
+| Feather Fall                | Feuille Morte                         |
+| Feeblemind                  | Esprit Faible                         |
+| Feign Death                 | Tromper la Mort                       |
+| Find Familiar               | Appel de Familier                     |
+| Find Greater Steed          | Appel de Monture Supérieure           |
+| Find Steed                  | Appel de Monture                      |
+|                             |                                       |
