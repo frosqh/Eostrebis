@@ -90,4 +90,85 @@
 | Conjure Fey                 | Invocation de fée                     |
 | Conjure Minor Elementals    | Invocation d'Élementaires mineurs     |
 | Conjure Volley              | Invocation de Volée                   |
-| Conjure Woodland Beings     | Invocation d'                                      |
+| Conjure Woodland Beings     | Invocation d'Êtres Sylvains           |
+| Contact Other Plane         | Contact avec un Autre Plan            |
+| Contagion                   | Contagion                             |
+| Contingency                 | Prévoyance                            |
+| Continual Flame             | Flamme Éternelle                      |
+| Control Water               | Contrôle de l'Eau                     |
+| Control Flames              | Contrôle des Flammes                  |
+| Control Weather             | Contrôle du Climat                    |
+| Control Winds               | Contrôle des Vents                    |
+| Cordon of Arrows            | Cordon de Flèches                     |
+| Counterspell                | Contresort                            |
+| Create Bonfire              | Embrasement                           |
+| Create Food and Water       | Création de Nourriture et d'Eau       |
+| Create Homunculus           | Création d'Homoncule                  |
+| Create Magen                | Création de Magen                     |
+| Create or Destroy Water     | Création ou Destruction d'Eau         |
+| Create Spelljamming Helm    | Création d'un Fauteuil de Pilotage    |
+| Create Undead               | Création de Mort-vivant               |
+| Creation                    | Création                              |
+| Crown of Madness            | Couronne du Dément                    |
+| Crown of Stars              | Couronne d'Étoiles                    |
+| Crusader's Mantle           | Aura du Croisé                        |
+| Cure Wounds                 | Soins                                 |
+| Dancing Lights              | Lumières Dansantes                    |
+| Danse Macabre               | Danse Macabre                         |
+| Dark Star                   | Étoile Sombre                         |
+| Darkness                    | Ténèbres                              |
+| Darkvision                  | Vision dans le Noir                   |
+| Dawn                        | Aube                                  |
+| Daylight                    | Lumière du Jour                       |
+| Death Ward                  | Protection contre la Mort             |
+| Delayed Blast Fireball      | Boule de Feu à Retardement            |
+| Demiplane                   | Demi-plan                             |
+| Destructive Wave            | Vague Destructrice                    |
+| Detect Evil and Good        | Détection du Mal et du Bien           |
+| Detect Magic                | Détection de la magie                 |
+| Detect Poison and Diseases  | Détection du poison et des maladies   |
+| Detect Thoughts             | Détection des Pensées                 |
+| Dimension Door              | Porte Dimensionelle                   |
+| Disguise Self               | Déguisement                           |
+| Disintegrate                | Désintégration                        |
+| Dispel Evil and good        | Dissipation du Mal et du Bien         |
+| Dispel Magic                | Dissipation de la Magie               |
+| Dissonant Whispers          | Murmures Dissonants                   |
+| Distort Value               | Falsification de la Valeur            |
+| Divination                  | Divination                            |
+| Divine Favor                | Faveur Divine                         |
+| Divine Word                 | Parole Divine                         |
+| Dominate Beast              | Domination de Bête                    |
+| Dominate Monster            | Domination de Monstre                 |
+| Dominate Person             | Domination de Personne                |
+| Draconic Transformation     | Transformation Draconique             |
+| Dragon's Breath             | Souffle du Dragon                     |
+| Drawmij's Instant Summons   | Invocations Instantanées de Drawmij   |
+| Dream                       | Songe                                 |
+| Dream of the Blue Veil      | Songe du Voile Bleu                   |
+| Druid Grove                 | Bosquet des Druides                   |
+| Druidcraft                  | Druidisme                             |
+| Dust Devil                  | Tourbillon de Poussière               |
+| Earth Tremor                | Secousse Sismique                     |
+| Earthbind                   | Attraction Terrestre                  |
+| Earthquake                  | Tremblement de Terre                  |
+| Eldricht Blast              | Décharge Occulte                      |
+| Elemental Bane              | Fléau Élémentaire                     |
+| Elemental Weapon            | Arme Élémentaire                      |
+| Encode Thoughts             | Chiffrement des Pensées               |
+| Enemies Abounds             | Ennemis à Foison                      |
+| Enervation                  | Énervation                            |
+| Enhance Ability             | Amélioration de Caractéristiques      |
+| Enlarge/Reduce              | Agrandissment/Rapetissement           |
+| Ensnaring Strike            | Frappe Piégeuse                       |
+| Entangle                    | Enchevêtrement                        |
+| Enthrall                    | Discours Captivant                    |
+| Erupting Earth              | Éruption de Terre                     |
+| Etherealness                | Forme Éthérée                         |
+| Evard's Black Tentacles     | Tentacules noires d'Evard             |
+| Expeditious Retreat         | Repli Expéditif                       |
+| Eyebite                     | Mauvais œil                           |
+| Fabricate                   | Fabrication                           |
+| Faerie Fire                 | Lueurs Féériques                      |
+| False Life                  | Simulacre de Vie                      |
+| Faithful Hound              |                                       |
