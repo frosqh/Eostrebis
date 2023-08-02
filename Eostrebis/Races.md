@@ -662,7 +662,6 @@ Lorsque vous créez un mécanisme, choisissez parmi ces options :
 
 "Bénis" par les Dieux, les Humains peuvent se reproduire avec n'importe quelle autre type de créature. De manière générale, le résultat de cette union possède des traits humains, et de leur race d'origine. Dans cette catégorie rentrent aussi les humains mutés, de quelque manière que ce soit.
 
-
 ### Description physique
 
 ### Culture
@@ -671,7 +670,7 @@ Lorsque vous créez un mécanisme, choisissez parmi ces options :
 
 ### Mécaniques
 
-****Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnages, augmentez deux caractéristiques différentes par 1. (*Conseillé : DEX +2, CON +1*)
+**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnages, augmentez deux caractéristiques différentes par 1. (*Conseillé : DEX +2, CON +1*)
 
 **Type de Créature.** Vous êtes un humanoïde.
 
@@ -685,7 +684,23 @@ Lorsque vous créez un mécanisme, choisissez parmi ces options :
 
 **Compétences.** Vous maîtrisez une compétence de votre choix.
 
-**Aptitudes Raciales.** De part votre ascendance, vous obtenez 
+**Aptitudes Raciales.** De part votre ascendance, vous obtenez une caractéristique ainsi que des traits supplémentaires. Ceux-ci sont présentés ci-dessous : 
+
+#### Progéniture Aberrante
+
+**Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
+
+**Esprit Aberrant.** Vous avez l'avantage aux jets de sauvegarde que vous faites pour éviter ou terminer l'effet charmé sur vous-même, ainsi que contre les effets qui liraient vos émotions ou vos pensées.
+
+**Résistance Psychique.** Vous êtes résistant aux dégâts psychiques.
+
+**Tentacule.** Au moins un de vos membres est musclé, caoutchouteux et souple, agissant comme une tentacule que vous pouvez utiliser pour faire des attaques à mains nues. Quand vous touchez avec, l'attaque fait 1d6 + STR dégâts contondants, plutôt que les dégâts normaux d'une attaque à mains nues.
+
+#### Aquanaute
+
+**Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
+
+**Aquatique.**
 
 
 # Tieflin
