@@ -660,7 +660,33 @@ Lorsque vous créez un mécanisme, choisissez parmi ces options :
 
 ## Demi-humain
 
-"Bénis" par les Dieux, les Humains peuvent se reproduire avec n'importe quelle autre race corporelle. De manière générale, le résultat de cette union.
+"Bénis" par les Dieux, les Humains peuvent se reproduire avec n'importe quelle autre type de créature. De manière générale, le résultat de cette union possède des traits humains, et de leur race d'origine. Dans cette catégorie rentrent aussi les humains mutés, de quelque manière que ce soit.
+
+
+### Description physique
+
+### Culture
+
+### Langue
+
+### Mécaniques
+
+****Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnages, augmentez deux caractéristiques différentes par 1. (*Conseillé : DEX +2, CON +1*)
+
+**Type de Créature.** Vous êtes un humanoïde.
+
+**Langage.** Vous parlez le Commun, et un langage supplémentaire de votre choix. Les Humains apprennent typiquement les langues des peuples avec lesquels ils échangent, y compris d'obscurs dialectes. Ils sont particulièrement adeptes de l'emprunt de vocabulaires : ils parsèment leurs phrases de mots tirés d'autres langues. Par exemples, des insultes orques, des expressions elfes, des slogan militaires nains...
+
+**Âge.** Les Humains atteignent l'âge adultes aux alentours de 16/17 ans, et vivent moins de 100 ans.
+
+**Taille.** Les Humains varient beaucoup en taille et en carrure, de à peine 1m50 à plus de 1m90. Indépendamment de votre position dans cet intervalle, votre taille est _Moyenne (M)_. 
+
+**Vitesse.** Votre vitesse de base est de 30 ft. (9m/6 cases).
+
+**Compétences.** Vous maîtrisez une compétence de votre choix.
+
+**Aptitudes Raciales.** De part votre ascendance, vous obtenez 
+
 
 # Tieflin
 
