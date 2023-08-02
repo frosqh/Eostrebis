@@ -453,7 +453,7 @@ La caractéristique utilisée pour le lancement est, au choix, à choisir au mom
 ### Langue
 
 ### Mécaniques
-**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnages, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : INT +2, CON +1*)
+**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnages, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : INT +2, DEX +1*)
 
 **Type de Créature.** Vous êtes un humanoïde.
 
@@ -501,12 +501,51 @@ La caractéristique utilisée pour le lancement est, au choix, à choisir au mom
 
 **Connaissance en Ingénierie.** À chaque fois que vous faites un jet d'Intelligence (Histoire) lié aux objets magique, à l'alchimie ou à la technologie, vous pouvez ajouter deux fois votre bonus de maîtrise, plutôt que ce que vous ajouteriez normalement.
 
-**Bricoleur.** Vous maîtrisez les outils de bricoleur. En utilisant ces outils, vous pouvez passer 1 heure et dépenser l'équivalent de 10 PO de matériaux pour créer un mécanisme de taille TP, de CA 5 et 1 PV. Le dispositif cesse de fonctionner après 24 heures (sauf si vous passez 1 heure à le réparer pour le garder fonctionnel), ou lorsque vous utilisez votre action pour le démonter; 
+**Bricoleur.** Vous maîtrisez les outils de bricoleur. En utilisant ces outils, vous pouvez passer 1 heure et dépenser l'équivalent de 10 PO de matériaux pour créer un mécanisme de taille TP, de CA 5 et 1 PV. Le dispositif cesse de fonctionner après 24 heures (sauf si vous passez 1 heure à le réparer pour le garder fonctionnel), ou lorsque vous utilisez votre action pour le démonter; à cet instant, vous pouvez récupérer les matériaux dépensés dans sa création. Vous pouvez avoir jusqu'à trois dispositifs actifs en même temps.
 
+Lorsque vous créez un mécanisme, choisissez parmi ces options : 
+
+*Jouet Mécanique.* Ce jouet représente un animal, un monstre ou personne mécanique, comme une grenouille, une souris, un oiseau, un dragon ou un soldat. Lorsqu'il est placé sur le sol, il se déplace de 1.5m chaque tour dans une direction aléatoire et fait des bruits en fonction de la créature qu'il représente.
+
+*Allume Feu.* Le mécanisme produit une flamme miniature, que vous pouvez utiliser pour allumer une bougie, une torche ou un feu de camp. Utiliser le dispositif consomme une action.
+
+*Boîte à Musique.* Lorsqu'on l'ouvre, la boîte reproduit une chanson (toujours la même) à un volume modéré jusqu'à la fin du morceau ou que la boîte soit refermée.
+
+
+ 
 
 # Halfelin
 
 ## Halfelin sagespectre
+
+### Description physique
+
+### Culture
+
+### Langue
+
+### Mécaniques
+
+**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnages, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : DEX +2, WIS +1*)
+
+**Type de Créature.** Vous êtes un humanoïde.
+
+**Langage.** Vous parlez le Commun et l'Halfelin. L'Halfelin n'est pas secret, mais les halfelins sont réticents à le partager. Ils écrivent très peu, et il n'y a donc qu'un petit corpus de littérature halfeline. En revanche, leur tradition orale est très développée. Quasiment tous les halfelins parlent le Commun pour échanger avec les peuples des endroits qu'ils traversent.
+
+**Âge.** Les halfelins atteignent la majorité aux alentours de 20 ans, et vivent généralement 150 ans.
+
+**Taille.** Les halfelins mesurent en moyenne 90 cm et pèsent à peu près 20 kg. Votre taille est _Petite (P)_.
+
+**Vitesse.** Votre vitesse de base est de 25 ft. (7.5m/5 cases).
+
+**Chanceux.** Quand vous faîtes un 1 sur un d20 pour un jet d'attaque, jet de compétence ou jet de sauvegarde, vous pouvez relancer le dé et devez utiliser le nouveau résultat.
+
+**Courageux.** Vous avez l'avantage aux jets de sauvegarde pour ne pas être apeuré.
+
+**Agilité Halfeline.** Vous pouvez passer dans l'espace de toute créature d'une taille supérieure à la vôtre.
+
+**Communication silencieuse.** Vous pouvez communiquer par télépathie à n'importe quelle créature à moins de 30 ft. (18m/6 cases). La créature ne vous comprend que si vous parlez un langage en commun. 
+
 
 ## Halfelin pied-léger
 
