@@ -544,16 +544,123 @@ Lorsque vous créez un mécanisme, choisissez parmi ces options :
 
 **Agilité Halfeline.** Vous pouvez passer dans l'espace de toute créature d'une taille supérieure à la vôtre.
 
-**Communication silencieuse.** Vous pouvez communiquer par télépathie à n'importe quelle créature à moins de 30 ft. (18m/6 cases). La créature ne vous comprend que si vous parlez un langage en commun. 
+**Communication silencieuse.** Vous pouvez communiquer par télépathie à n'importe quelle créature à moins de 30 ft. (18m/6 cases). La créature ne vous comprend que si vous parlez un langage en commun. Vous pouvez parler ainsi à une seule créature à la fois.
 
 
 ## Halfelin pied-léger
 
+
+### Description physique
+
+### Culture
+
+### Langue
+
+### Mécaniques
+
+**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnages, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : DEX +2, CHA +1*)
+
+**Type de Créature.** Vous êtes un humanoïde.
+
+**Langage.** Vous parlez le Commun et l'Halfelin. L'Halfelin n'est pas secret, mais les halfelins sont réticents à le partager. Ils écrivent très peu, et il n'y a donc qu'un petit corpus de littérature halfeline. En revanche, leur tradition orale est très développée. Quasiment tous les halfelins parlent le Commun pour échanger avec les peuples des endroits qu'ils traversent.
+
+**Âge.** Les halfelins atteignent la majorité aux alentours de 20 ans, et vivent généralement 150 ans.
+
+**Taille.** Les halfelins mesurent en moyenne 90 cm et pèsent à peu près 20 kg. Votre taille est _Petite (P)_.
+
+**Vitesse.** Votre vitesse de base est de 25 ft. (7.5m/5 cases).
+
+**Chanceux.** Quand vous faîtes un 1 sur un d20 pour un jet d'attaque, jet de compétence ou jet de sauvegarde, vous pouvez relancer le dé et devez utiliser le nouveau résultat.
+
+**Courageux.** Vous avez l'avantage aux jets de sauvegarde pour ne pas être apeuré.
+
+**Agilité Halfeline.** Vous pouvez passer dans l'espace de toute créature d'une taille supérieure à la vôtre.
+
+**Discrétion Naturelle.** Vous pouvez tenter de vous cacher si vous vous trouvez derrière une créature d'une taille supérieure à la vôtre.
+
 ## Halfelin robuste
+
+### Description physique
+
+### Culture
+
+### Langue
+
+### Mécaniques
+
+**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnages, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : DEX +2, CON +1*)
+
+**Type de Créature.** Vous êtes un humanoïde.
+
+**Langage.** Vous parlez le Commun et l'Halfelin. L'Halfelin n'est pas secret, mais les halfelins sont réticents à le partager. Ils écrivent très peu, et il n'y a donc qu'un petit corpus de littérature halfeline. En revanche, leur tradition orale est très développée. Quasiment tous les halfelins parlent le Commun pour échanger avec les peuples des endroits qu'ils traversent.
+
+**Âge.** Les halfelins atteignent la majorité aux alentours de 20 ans, et vivent généralement 150 ans.
+
+**Taille.** Les halfelins mesurent en moyenne 90 cm et pèsent à peu près 20 kg. Votre taille est _Petite (P)_.
+
+**Vitesse.** Votre vitesse de base est de 25 ft. (7.5m/5 cases).
+
+**Chanceux.** Quand vous faîtes un 1 sur un d20 pour un jet d'attaque, jet de compétence ou jet de sauvegarde, vous pouvez relancer le dé et devez utiliser le nouveau résultat.
+
+**Courageux.** Vous avez l'avantage aux jets de sauvegarde pour ne pas être apeuré.
+
+**Agilité Halfeline.** Vous pouvez passer dans l'espace de toute créature d'une taille supérieure à la vôtre.
+
+**Résistance des Robustes.** Vous obtenez un avantage aux jets de sauvegarde contre le poison et la résistance contre les dégâts de poison.
 
 # Humain
 
-## Demi-humains
+## Humain de Base
+
+### Description physique
+
+### Culture
+
+### Langue
+
+### Mécaniques
+
+**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnages, augmentez toutes vos caractéristiques de 1.
+
+**Type de Créature.** Vous êtes un humanoïde.
+
+**Langage.** Vous parlez le Commun, et un langage supplémentaire de votre choix. Les Humains apprennent typiquement les langues des peuples avec lesquels ils échangent, y compris d'obscurs dialectes. Ils sont particulièrement adeptes de l'emprunt de vocabulaires : ils parsèment leurs phrases de mots tirés d'autres langues. Par exemples, des insultes orques, des expressions elfes, des slogan militaires nains...
+
+**Âge.** Les Humains atteignent l'âge adultes aux alentours de 16/17 ans, et vivent moins de 100 ans.
+
+**Taille.** Les Humains varient beaucoup en taille et en carrure, de à peine 1m50 à plus de 1m90. Indépendamment de votre position dans cet intervalle, votre taille est _Moyenne (M)_. 
+
+**Vitesse.** Votre vitesse de base est de 30 ft. (9m/6 cases).
+
+## Humain Variant
+
+### Description physique
+
+### Culture
+
+### Langue
+
+### Mécaniques
+
+**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnages, augmentez deux caractéristiques différentes par 1. (*Conseillé : DEX +2, CON +1*)
+
+**Type de Créature.** Vous êtes un humanoïde.
+
+**Langage.** Vous parlez le Commun, et un langage supplémentaire de votre choix. Les Humains apprennent typiquement les langues des peuples avec lesquels ils échangent, y compris d'obscurs dialectes. Ils sont particulièrement adeptes de l'emprunt de vocabulaires : ils parsèment leurs phrases de mots tirés d'autres langues. Par exemples, des insultes orques, des expressions elfes, des slogan militaires nains...
+
+**Âge.** Les Humains atteignent l'âge adultes aux alentours de 16/17 ans, et vivent moins de 100 ans.
+
+**Taille.** Les Humains varient beaucoup en taille et en carrure, de à peine 1m50 à plus de 1m90. Indépendamment de votre position dans cet intervalle, votre taille est _Moyenne (M)_. 
+
+**Vitesse.** Votre vitesse de base est de 30 ft. (9m/6 cases).
+
+**Compétences.** Vous maîtrisez une compétence de votre choix.
+
+**Don.** Vous possédez un don de votre choix.
+
+## Demi-humain
+
+"Bénis" par les Dieux, les Humains peuvent se reproduire avec n'importe quelle autre race corporelle. De manière générale, le résultat de cette union.
 
 # Tieflin
 
