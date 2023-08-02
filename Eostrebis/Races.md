@@ -432,7 +432,7 @@ La caractéristique utilisée pour le lancement est, au choix, à choisir au mom
 
 **Âge.** Les svirfneblin vivent peu longtemps pour des gnomes. Ils grandissent à la même vitesse que les humains, et sont considérés adultes à l'âge de 25 ans. Ils vivent entre 200 et 250 ans, même si les dangers et le travail incessant de l'Outre-Terre les emportent généralement plus tôt.
 
-**Taille.** Les svirfneblin mesurent entre 90cm et 1m, et pèsent entre 35 et 60kg. Votre taille est _Petite (P)_.
+**Taille.** Les svirfneblin mesurent entre 90cm et 120m, et pèsent entre 35 et 60kg. Votre taille est _Petite (P)_.
 
 **Vitesse.** Votre vitesse de base est de 30 ft. (9m/6 cases). 
 
@@ -442,11 +442,67 @@ La caractéristique utilisée pour le lancement est, au choix, à choisir au mom
 
 **Camouflage Svirfneblin.** Lorsque vous faîtes un jet de Dextérité (Discrétion), vous pouvez réaliser ce jet avec l'avantage. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations lorsque vous avez fini un repos long.
 
-**Don des Svirfneblin.** À partir du niveau 3, vous pouvez lancer le sort __
+**Don des Svirfneblin.** À partir du niveau 3, vous pouvez lancer le sort _Déguisement_ avec ce trait. À partir du niveau 5, vous pouvez aussi lancer le sort _Antidétection_, sans avoir besoin des composantes matérielles. Une fois que vous avez lancer l'un de ces sorts avec ce trait, vous ne pouvez pas relancer ce sort avant d'avoir fini un repos long. Vous pouvez aussi lancer ces sorts en utilisant vos emplacements de sorts du niveau approprié. Votre caractéristique d'incantation pour ces sorts est, au choix, l'Intelligence, la Sagesse ou le Charisme. 
 
 ## Gnome des forêts
 
+### Description physique
+
+### Culture
+
+### Langue
+
+### Mécaniques
+**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnages, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : INT +2, CON +1*)
+
+**Type de Créature.** Vous êtes un humanoïde.
+
+**Langage.** Vous parlez le Commun et le Gnomique. Le Gnomique, qui utilise l'alphabet Nain, est renommé pour ses documents techniques et autres catalogues de savoir.
+
+**Âge.** Les gnomes grandissent à la même vitesse que les humains, et la plupart s'établissent dans la vie adulte aux alentours de 40 ans. Ils peuvent vivre en moyenne 350 ans, et jusqu'à 500 ans.
+
+**Taille.** Les gnomes mesurent entre 90cm et 1m20, et pèsent environ 20kg. Votre taille est _Petite (P)_.
+
+**Vitesse.** Votre vitesse de base est de 25 ft. (7.5m/5 cases).
+
+**Vision dans le noir.** Habitué à vivre sous terre, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+
+**Résistance Magique Gnome.** Vous avez l'avantage aux jets de sauvegarde d'Intelligence, de Sagesse ou de Charisme contre les sorts.
+
+**Illusionniste Né.** Vous connaissez le cantrip _Illusion Mineure_. Votre caractéristique d'incantation pour ce sort est l'Intelligence.
+
+**Communication avec les Petits Animaux.** À l'aide de sons et de gestes, vous pouvez communiquer des idées simples avec des bêtes de taille P ou plus petites. Les gnomes de la forêt adorent les animaux et gardent souvent des écureuils, des blaireaux, des lapins, des taupes, des pic-verts ou d'autre créatures comme leurs animaux de compagnie adorés.
+
 ## Gnome des roches
+
+### Description physique
+
+### Culture
+
+### Langue
+
+### Mécaniques
+
+**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnages, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : INT +2, CON +1*)
+
+**Type de Créature.** Vous êtes un humanoïde.
+
+**Langage.** Vous parlez le Commun et le Gnomique. Le Gnomique, qui utilise l'alphabet Nain, est renommé pour ses documents techniques et autres catalogues de savoir.
+
+**Âge.** Les gnomes grandissent à la même vitesse que les humains, et la plupart s'établissent dans la vie adulte aux alentours de 40 ans. Ils peuvent vivre en moyenne 350 ans, et jusqu'à 500 ans.
+
+**Taille.** Les gnomes mesurent entre 90cm et 1m20, et pèsent environ 20kg. Votre taille est _Petite (P)_.
+
+**Vitesse.** Votre vitesse de base est de 25 ft. (7.5m/5 cases).
+
+**Vision dans le noir.** Habitué à vivre sous terre, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+
+**Résistance Magique Gnome.** Vous avez l'avantage aux jets de sauvegarde d'Intelligence, de Sagesse ou de Charisme contre les sorts.
+
+**Connaissance en Ingénierie.** À chaque fois que vous faites un jet d'Intelligence (Histoire) lié aux objets magique, à l'alchimie ou à la technologie, vous pouvez ajouter deux fois votre bonus de maîtrise, plutôt que ce que vous ajouteriez normalement.
+
+**Bricoleur.** Vous maîtrisez les outils de bricoleur. En utilisant ces outils, vous pouvez passer 1 heure et dépenser l'équivalent de 10 PO de matériaux pour créer un mécanisme de taille TP, de CA 5 et 1 PV. Le dispositif cesse de fonctionner après 24 heures (sauf si vous passez 1 heure à le réparer pour le garder fonctionnel), ou lorsque vous utilisez votre action pour le démonter; 
+
 
 # Halfelin
 
