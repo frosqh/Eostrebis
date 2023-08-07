@@ -688,6 +688,8 @@ Lorsque vous créez un mécanisme, choisissez parmi ces options :
 
 #### Progéniture Aberrante
 
+Ou vous avez muté, ou vous avez été créés depuis une aberration, comme un aboleth. Dans tous les cas, vous souffrez d'étranges difformités en conséquence. De par ses changements, vous bénéficiez des traits suivants :
+
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
 **Esprit Aberrant.** Vous avez l'avantage aux jets de sauvegarde que vous faites pour éviter ou terminer l'effet charmé sur vous-même, ainsi que contre les effets qui liraient vos émotions ou vos pensées.
@@ -698,9 +700,23 @@ Lorsque vous créez un mécanisme, choisissez parmi ces options :
 
 #### Aquanaute
 
+Un de vos parents est un habitant sous-marin, ou vous êtes un descendant lointain d'un habitant du Plan Élémentaire de l'Eau; par conséquent, vous avez des caractéristiques aquatiques, comme des branchies, des mains palmées et des écailles, qui vous confèrent les traits suivants : 
+
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Aquatique.**
+**Aquatique.** Vous pouvez respirer sur terre et sous l'eau.
+
+**À Nageoires.** Vous avez une vitesse de nage égale à votre vitesse de base.
+
+#### Arachné
+
+Tout comme les drows, les humains peuvent être corrompus par la déesse Drow ([[Lillinbra]]), devenant des arachnés - des humains avec huit yeux et des cheveux noirs et drus. Parfois, ces humains sont les descendants de driders ou de prêtresse drows, tandis que d'autres portent les cicatrices d'un rituel qui a mal tourné. Dans tous les cas, cette corruption vous confère les traits suivants :
+
+**Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
+
+**Vision dans le Noir.** Vous pouvez voir à 120 ft. (36m/24 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+
+**Magie Arachnide.** Vous connaissez le cantrip _Bouffée de Poison_. À partir du niveau 3, vous pouvez lancer le sort _Fléau_ avec ce trait. À partir du niveau 5, vous pouvez aussi lancer le sort _Pattes d'Araignée_ avec ce trait. Une fois que vous avez lancée _Fléau_ ou _Pattes d'Araignée_ avec ce trait, vous ne pouvez pas le relancer de cette façon avant d'avoir fini un repos long. Vous pouvez aussi lancer ces sors en dépensant les emplacements de sorts appropriés. La caractéristiques d'incantation pour ces sorts est, au choix, l'Intelligence, la Sagesse ou le Charisme.
 
 
 # Tieflin
