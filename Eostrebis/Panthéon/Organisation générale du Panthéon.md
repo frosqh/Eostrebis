@@ -42,15 +42,31 @@ Petit, farce, bravoure, persévérance
 
 Son symbole est la Trifecta d'Éléments : une petite étoile, une clé délicate et un petit bouclier.
 
-## Mer, inconnu (N)
+## Maravas (N)
+Mer, inconnu
+### Symbole
+Son symbole est l'Énigme flottante : une forme difforme voilée flottant au dessus d'un océan agité.
 
-## Magie, Connaissance, Curiosité (CB)
+## Wíyatava (CB)
+Magie, connaissance, curiosité
+### Symbole
+Son symbole est l'Étoile Sombre : une étoile stylisée avec des motifs abstraits à l'intérieur.
 
-## Orque, Guerre, Violence (LE)
+## Bélhorixa (pas convaincu) (LE)
+Orque, Guerre, Violence
+### Symbole
+Son symbole est les Crocs Déchaînés : un paire de crocs pointus et agressifs, entourés d'une aura tourbillonnante
 
-## Mort, Changement, Renouveau (N)
+## Whavagor (N)
+Mort, Changement, Renouveau 
 
-## Commerce, Voyage, Avidité (CN)
+### Symbole
+Son symbole est le Cycle Éternel : un cercle en trois segments, représentant la vie, la mort, et la renaissance
+
+##  Pluk'Thrum (CN)
+Commerce, Voyage, Avidité
+### Symbole
+Son symbole est le carrefour étincelant.
 # Les Dieux Mineurs (L'Auranthia)
 
 ## [[Lillinbra]]
