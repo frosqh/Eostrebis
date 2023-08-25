@@ -63,7 +63,7 @@ Mort, Changement, Renouveau
 ### Symbole
 Son symbole est le Cycle Éternel : un cercle en trois segments, représentant la vie, la mort, et la renaissance
 
-##  Pluk'Thrum (CN)
+## Pluk'Thrum (CN)
 Commerce, Voyage, Avidité
 ### Symbole
 Son symbole est le carrefour étincelant.
