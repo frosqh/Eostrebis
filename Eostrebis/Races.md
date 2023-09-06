@@ -753,7 +753,36 @@ Les enfants de gobelins, hobgobelins et gobelours avec des humains sont connus c
 
 **Taille.** À la différence des autres humains, vous êtes de taille Petite ou Moyenne, en fonction de votre héritage.
 
-**Vision Nocturne.**
+**Vision dans le noir.** Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+
+**Ascendance Féerique.** Vous avez l'avantage aux jets de sauvegarde contre les effets de charme et la magie ne peut pas vous endormir.
+
+**Ambition Grendelle.** À votre premier tour chaque combat, vous pouvez ajouter votre bonus de maîtrise à vos jets d'attaques, de caractéristiques, ou de sauvegarde.
+
+#### Grue
+
+Un de vos parents est une créature de l'obscurité, par exemple une ombre ou un natif du Plan des Ombres. Les grues, tels que vous, ont une peau noircie et projettent une ombre dans toutes les directions, même directement dans la lumière. Dans les ombres, vous êtes pratiquement invisibles. Vous disposez des traits raciaux suivants : 
+
+**Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
+
+**Vision dans le noir.** Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+
+**Couvert.** Lorsque vous êtes caché et qu'une créature vous découvre avec un jet de Sagesse (Perception) réussi, vous pouvez retenter un jet de Dextérité (Discrétion) pour vous cacher. Sur un succès, vous vous repositionnez silencieusement, et la créature ne vous remarque pas. Lorsque vous avez utilisez ce trait, vous ne pas le réutiliser avant de finir un repos court ou long.
+
+#### Insectoïde
+
+Les insectoïdes portent une ou deux marques distinctives des insectes, comme des yeux composés proéminents ou des plaques de cartilages, mais ont quasiment toujours une paire d'antennes sensibles posée sur le haut du crâne.
+
+**Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
+
+**Vision Aveugle.** De par votre antenne, vous avez une vision aveugle dans un rayon de 10 ft. (3m/2 cases). Dans cette portée, vous pouvez voir tout ce qui n'est pas derrière une couverture totale, même si vous êtes aveuglés ou dans l'obscurité la plus totale. De plus, vous pouvez voir une créature invisible dans ce rayon, sauf si cette créature se cache de vous.
+
+**Régénération.** Si une partie de votre corps est amputée, et que cette amputation ne vous tue pas, vous pouvez la faire repousser en 24 heures.
+
+#### Immortel
+
+D'après les légendes, un humain peut atteindre l'immortalité en remplaçant son cœur par une tâche d'éclat céleste. Le secret de l'immortalité, y compris les elixirs et autres rituels pour l'atteindre, sont jalousement gardés par un groupe secret de mystiques immortels, chacun ne connaissant qu'une étape du processus. Il y a peut-être une douzaine de vrais immortels dans le monde, 
+
 
 # Tieflin
 
