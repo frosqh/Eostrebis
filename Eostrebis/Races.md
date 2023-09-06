@@ -813,6 +813,17 @@ Votre carrure rustique et monstrueuse révèle directement qu'un de vos parents 
 
 **Carrure Imposante.** Vous êtes considéré comme une taille supplémentaire pour déterminer votre capacité de charge, et le poids que vous pouvez pousser, tirer ou lever.
 
+#### Homme-hibours
+
+Vous êtes un amas de plumes, de chaire et de fourrure; mi-homme, mi-ours et re-mi-hibou. Personne ne peut vraiment être sûr de ce que vous êtes, si ce n'est le résultat d'un magicien fou s'aventurant dans le domaine des dieux. Vous disposez des traits raciaux suivants : 
+
+**Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
+
+**Bec.** Vous avez un long bec crochu que vous pouvez utilisez pour réaliser des attaques à mains nues. Lorsque vous touchez avec, le coup fait `dice:1d6|avg` + votre modificateur de Force dégâts perçants, au lieu des dégâts contondants usuels.
+
+**Lutte d'Hibours.** Vous pouvez tenter de saisir des créatures jusqu'à deux tailles au dessus de vous, et vous avez l'avantage aux jets de saisie que vous faîtes pendant votre tour contre des créatures plus petites que vous.
+
+
 
 # Tieflin
 
