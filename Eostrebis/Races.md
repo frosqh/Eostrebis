@@ -717,8 +717,43 @@ Tout comme les drows, les humains peuvent être corrompus par la déesse Drow ([
 
 #### Homme-bête
 
-Avec une courte queue, une fourrure vous couvrant le visage et de longues griffes et canines, vous ressemblez plus à une bête féroce qu'à un homme. Peut-être que votre parenté contenait une
+Avec une courte queue, une fourrure vous couvrant le visage et de longues griffes et canines, vous ressemblez plus à une bête féroce qu'à un homme. Peut-être que votre parenté contenait un thérianthrope ou une bête intelligente, vous conférant les traits suivants : 
 
+**Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
+
+**Griffes.** Vous avez des griffes aiguisées que vous pouvez utiliser pour effectuer des attaques à main nue. Quand vous touchez avec elles, vos attaques font `dice:1d6|avg` + votre modificateur de Force dégâts tranchants, plutôt que les dégâts habituels pour une attaque à main nue.
+
+**Odorat Aiguisé.** Vous avez l'avantage aux jets de Sagesse (Perception) se reposant sur l'odorat.
+
+#### Marqué par les Flammes
+
+Imprégné à la naissance ou marqué plus tard par les pouvoirs du Feu Élémentaire, ces quasi-humains ont une affinité toute particulière pour la magie de feu. Leur héritage en font de dangereux ennemis en combat, tout comme la nature volatile de leurs pouvoirs innés. Les Marqués par les Flammes sont des humains dans la forme, mais ont une peau d'un rouge flamboyant, et des flammes dans le fond des yeux. Ils disposent des traits raciaux suivants : 
+
+**Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
+
+**Résistance au Feu.** Vous avez la résistance au dégâts de feu.
+
+**Magie Enflammée.** Vous connaissez le cantrip *Flammes*. À compter du niveau 3, vous pouvez lancer le sorts *Mains Brûlantes* avec ce trait. À partir du niveau 5, vous pouvez aussi lancer le sort *Sphère de Feu* avec ce trait, sans que cela ne requiert la composante matérielle. Une fois que vous avez lancer *Mains Brûlantes* ou *Sphère de Feu* avec ce trait, vous ne pouvez pas le relancer tant que vous n'avez pas terminé un repos long. Vous pouvez aussi lancer ces sors en dépensant les emplacements de sorts appropriés. La caractéristiques d'incantation pour ces sorts est, au choix, l'Intelligence, la Sagesse ou le Charisme.
+
+#### Peau Verte
+
+Votre peuple métabolise en lézardant au soleil. Aidé par votre robuste peau capable de photosynthèse, vous jouissez des traits raciaux suivants : 
+
+**Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
+
+**Armure Naturelle.** Votre peau se comporte comme une armure naturelle. Lorsque vous ne portez pas d'amure, votre CA de base est égale à 12 + votre modificateur de Dextérité. Vous pouvez utiliser votre armure naturelle pour déterminer votre CA si l'armure que vous portez vous laisserait avec une CA inférieure. Vous bénéficiez toujours des effets d'un bouclier lorsque vous utilisez votre armure naturelle.
+
+**Résilience Photosynthétique** Vous avez l'avantage aux jets de sauvegarde que vous faîtes pour éviter ou pour terminer un effet d'empoisonnement sur vous-même. Vous avez aussi la résistance aux dégâts de poison.
+
+#### Grendel
+
+Les enfants de gobelins, hobgobelins et gobelours avec des humains sont connus comme des grendels. Malgré leur héritage divers, les grendels ne ressemblent pas vraiment à leurs parents, avec une peau de cuir vert-orangée, des cheveux rêches, et quatre phalanges à chaque doigts.
+
+**Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
+
+**Taille.** À la différence des autres humains, vous êtes de taille Petite ou Moyenne, en fonction de votre héritage.
+
+**Vision Nocturne.**
 
 # Tieflin
 
