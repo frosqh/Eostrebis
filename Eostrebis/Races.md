@@ -511,9 +511,6 @@ Lorsque vous créez un mécanisme, choisissez parmi ces options :
 
 *Boîte à Musique.* Lorsqu'on l'ouvre, la boîte reproduit une chanson (toujours la même) à un volume modéré jusqu'à la fin du morceau ou que la boîte soit refermée.
 
-
- 
-
 # Halfelin
 
 ## Halfelin sagespectre
@@ -717,6 +714,10 @@ Tout comme les drows, les humains peuvent être corrompus par la déesse Drow ([
 **Vision dans le Noir.** Vous pouvez voir à 120 ft. (36m/24 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Magie Arachnide.** Vous connaissez le cantrip _Bouffée de Poison_. À partir du niveau 3, vous pouvez lancer le sort _Fléau_ avec ce trait. À partir du niveau 5, vous pouvez aussi lancer le sort _Pattes d'Araignée_ avec ce trait. Une fois que vous avez lancée _Fléau_ ou _Pattes d'Araignée_ avec ce trait, vous ne pouvez pas le relancer de cette façon avant d'avoir fini un repos long. Vous pouvez aussi lancer ces sors en dépensant les emplacements de sorts appropriés. La caractéristiques d'incantation pour ces sorts est, au choix, l'Intelligence, la Sagesse ou le Charisme.
+
+#### Homme-bête
+
+Avec une courte queue, une fourrure vous couvrant le visage et de longues griffes et canines, vous ressemblez plus à une bête féroce qu'à un homme. Peut-être que votre parenté contenait une
 
 
 # Tieflin
