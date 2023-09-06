@@ -789,6 +789,30 @@ D'après les légendes, un humain peut atteindre l'immortalité en remplaçant s
 
 **Résilience Immortelle.** Vous avez l'avantage aux jets de sauvegarde que vous faîtes pour éviter ou pour terminer un effet d'empoisonnement ou une maladie sur vous-même. Vous avez aussi la résistance aux dégâts de poison.
 
+#### Mûl
+
+Un de vos parents est un humain, tandis que l'autre est un nain. Ce couple est habituellement rare à procréer, mais vous avez défié la chance, et vous voilà, parmi les rangs des solides et redoutables mûls. Vous avez les traits raciaux suivants :
+
+**Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
+
+**Vision dans le noir.** Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+
+**Acclimatation aux Armures.** Votre vitesse n'est pas réduite lorsque vous portez une armure lourde et vous n'avez jamais le désavantage à vos jets de Dextérité (Discrétion) à cause d'une armure lourde.
+
+**Endurance Naine.** Votre maximum de points de vie augmente de 1 par niveau.
+
+#### Sang d'Ogre
+
+Votre carrure rustique et monstrueuse révèle directement qu'un de vos parents est un ogre. Vous avez les traits raciaux suivants : 
+
+**Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
+
+**Vision dans le noir.** Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+
+**Force Monstrueuse.** Vous gagnez la maîtrise en Athlétisme. De plus, lorsque vous faîtes un jet de Force (Athlétisme), vous pouvez traitez le résultat comme un 10, ou comme votre modificateur de force + votre niveau, lequel est le plus haut.
+
+**Carrure Imposante.** Vous êtes considéré comme une taille supplémentaire pour déterminer votre capacité de charge, et le poids que vous pouvez pousser, tirer ou lever.
+
 
 # Tieflin
 
