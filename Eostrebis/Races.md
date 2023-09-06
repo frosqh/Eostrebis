@@ -781,7 +781,13 @@ Les insectoïdes portent une ou deux marques distinctives des insectes, comme de
 
 #### Immortel
 
-D'après les légendes, un humain peut atteindre l'immortalité en remplaçant son cœur par une tâche d'éclat céleste. Le secret de l'immortalité, y compris les elixirs et autres rituels pour l'atteindre, sont jalousement gardés par un groupe secret de mystiques immortels, chacun ne connaissant qu'une étape du processus. Il y a peut-être une douzaine de vrais immortels dans le monde, 
+D'après les légendes, un humain peut atteindre l'immortalité en remplaçant son cœur par une tâche d'éclat céleste. Le secret de l'immortalité, y compris les elixirs et autres rituels pour l'atteindre, sont jalousement gardés par un groupe secret de mystiques immortels, chacun ne connaissant qu'une étape du processus. Il y a peut-être une douzaine de vrais immortels dans le monde, mais si l'on en croit les légendes, ils seraient plusieurs centaines.
+
+**Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
+
+**Éternel.** Vous ne vieillissez pas, même magiquement, et ne souffrez d'aucun désavantage du vieil âge. Vous ne pouvez pas mourir de vieillesse.
+
+**Résilience Immortelle.** Vous avez l'avantage aux jets de sauvegarde que vous faîtes pour éviter ou pour terminer un effet d'empoisonnement ou une maladie sur vous-même. Vous avez aussi la résistance aux dégâts de poison.
 
 
 # Tieflin
