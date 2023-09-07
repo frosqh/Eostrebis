@@ -95,6 +95,31 @@ Chaque caractéristique d'une créature a une valeur, un nombre qui définit son
 | 18-19                     | +4           |
 | 20-21                     | +5           |
 
+Afin de déterminer les caractéristiques de votre personnage, vous pouvez employer n'importe laquelle de ces trois méthodes : 
+
+**Aléatoire.** Vous lancez `4d6`, et notez la somme des trois meilleurs dés. Faites cinq autres lancers, puis affectez chaque nombre à une caractéristique, et appliquez vos modificateurs raciaux.
+
+**Tableau Standard.** Si vous voulez allez plus vite, vous pouvez à la place utiliser les six valeurs : $8, 11, 12, 13, 14, 16$.
+
+**Points d'Achat.** Si vous voulez pouvoir personnaliser vos caractéristiques mais sans se reposer sur l'aléatoire, vous pouvez aussi 'acheter' vos caractéristiques. Pour cela, vous disposez de $30$ points, à dépenser comme vous le souhaitez dans la table suivante : 
+
+| Score de Caractéristique | Coût en Points |
+| ------------------------ | ------------- |
+| 6                        | -2            |
+| 7                        | -1            |
+| 8                        | 0             |
+| 9                        | 1             |
+| 10                       | 2             |
+| 11                       | 3             |
+| 12                       | 4             |
+| 13                       | 5             |
+| 14                       | 7             |
+| 15                       | 9             |
+| 16                       | 11            |
+| 17                       | 13            |
+| 18                       | 15            |
+
+
 ## Utiliser chaque caractéristique
 
 ### Force
@@ -216,3 +241,51 @@ La Sagesse reflète la façon dont vous êtes à l'écoute du monde autour de vo
 
 #### Jets de Sagesse
 Un jet de Sagesse peut refléter l'effort pour lire le lange du corps, comprendre les sentiments de quelqu'un, noter quelque chose dans l'environnement ou soigner une personne blessée. Les compétences Dressage, Intuition, Médecine, Perception et Survie reflètent une aptitude à certains types de jets de Sagesse.
+
+**Dressage.** Quand il est question de savoir si vous pouvez calmer un animal domestique, faire qu'une monture ne s'effraye pas, ou deviner les intentions d'un animal, le MJ peut demander un jet de Sagesse (Dressage). Vous pouvez également faire un jet de Sagesse (Dressage) pour contrôler votre monture lorsque vous tentez une manœuvre risquée.
+
+**Intuition.** Un jet de Sagesse (Intuition) détermine si vous pouvez déceler les véritables intentions d'une créature, comme lorsque vous tentez de savoir si elle ment ou pour prévoir son prochain mouvement. Cela implique de lire le langage du corps, détecter ses habitudes de langage et les changements dans ses manières.
+
+**Médecine.** Un jet de Sagesse (Médecine) permet d'essayer de stabiliser un compagnon mourant ou de diagnostiquer une maladie.
+
+**Perception.** Un jet de Sagesse (Perception) permet de repérer, entendre ou détecter la présence de quelque chose. Il mesure votre conscience de l'environnement et l'acuité de vos sens. Par exemple, vous pouvez essayer  d'entendre une conversation à travers une porte fermée, espionner par une fenêtre ouverte, ou entendre des monstres se faufiler dans la forêt. Vous pouvez aussi essayer de repérer des choses qui sont cachées ou difficiles à déceler, que ce soient des orques en embuscade sur une route, des voyous cachés dans l'ombre d'une ruelle, ou la lueur d'une chandelle sous une porte secrète fermée.
+
+**Survie.** Le MJ peut vous demander de faire un jet de Sagesse (Survie) pour suivre des traces, chasser du gibier sauvage, guider votre groupe sur un terrain gelé, identifier des traces indiquant qu'un hibours vit à proximité, prévoir le temps ou éviter des sables mouvants et autres catastrophes naturelles.
+
+**Autres jets de Sagesse.** Le MJ peut également demander un jet de Sagesse lorsque vous essayez de réaliser l'une des tâches suivantes : 
+ - Avoir un pressentiment sur le plan d'action à suivre
+ - Discerner si une créature apparemment morte ou vivante est un mort-vivant
+
+> #### Trouver un objet caché
+>
+>Lorsque votre personnage recherche un objet caché, comme une porte secrète ou un piège, le MJ vous demandera généralement de faire un jet de Sagesse (Perception). Ce jet peut être utilisé pour trouver des détails cachés ou d'autres informations et indices que vous pourriez autrement négliger.
+>
+> Dans la plupart des cas, vous devez décrire où vous cherchez afin que le MJ puisse déterminer vos chances de succès. Par exemple, une clé est cachée sous des vêtements pliés dans le tiroir du haut d'un bureau. Si vous dites au MJ que vous cherchez autour de la salle, en regardant les murs et les meubles pour trouvez des indices, vous n'avez aucune chance de trouver la clé, quel que soit le résultat de votre jet de Sagesse (Perception). Vous devez spécifier que vous ouvrez les tiroirs ou que vous cherchez dans le bureau pour avoir une chance de succès.
+
+#### Capacité de Lancer des Sorts
+Les clercs, les druides et les rôdeurs utilisent la Sagesse comme caractéristique d'incantation, ce qui permet de déterminer le DC des jets de sauvegarde de sorts qu'ils lancent.
+
+### Charisme
+Le Charisme détermine votre capacité à interagir efficacement avec les autres. Il comprend des facteurs comme la confiance et l'éloquence, et peut représenter une personnalité charmante ou dominante.
+
+#### Jets de Charisme
+Un jet de Charisme peut être nécessaire lorsque vous essayez d'influencer ou de divertir les autres, lorsque vous essayez de faire impression ou de dire un mensonge de manière convaincante, ou lorsque vous êtes au milieu d'une situation sociale difficile. Les compétences de Tromperie, Intimidation, Représentation et Persuasion reflètent une aptitude à certains types de jets de Charisme.
+
+**Intimidation**. Lorsque vous essayez d'influencer les gens par des menaces ouvertes, des actions hostiles, ou de la violence physique, le MJ peut vous demander de faire un jet de Charisme (Intimidation). Cela peut appliquer pour essayer de soutirer des informations à un prisonnier, convaincre des voyous de renoncer à une confrontation, ou utiliser un tesson de bouteille pour convaincre un vizir sarcastique de réexaminer sa décision.
+
+**Persuasion**. Lorsque vous essayez d'influencer quelqu'un ou un groupe de personnes avec tact, grâce, ou de bonnes manières, le MJ peut vous demander de faire un jet de Charisme (Persuasion). En règle générale, vous utilisez la persuasion lorsque vous agissez de bonne foi, afin de favoriser l'amitié, faire des demandes cordiales, ou utiliser l'étiquette appropriée. Vous pouvez utiliser la persuasion pour convaincre un chambellan de laisser votre groupe voir le roi, négocier la paix entre deux tribus en guerre, ou motiver une foule de citadins.
+
+**Représentation**. Un jet de Charisme (Représentation) détermine la façon dont vous pouvez enchanter un public par la musique, la danse, le théâtre, le conte ou toute autre forme de divertissement.
+
+**Tromperie**. Un jet de Charisme (Tromperie) détermine si vous pouvez cacher la vérité avec efficacité, soit verbalement, soit par vos actions. La tromperie peut englober beaucoup de choses, depuis l'ambiguïté de ses dires jusqu'au mensonge pur et simple. Des situations typiques sont d'essayer d'embobiner un garde, duper un commerçant, gagner de l'argent au jeu, vous faire passer pour quelqu'un d'autre à l'aide d'un déguisement, apaiser les soupçons de quelqu'un avec une fausse assurance, ou maintenir un visage impassible tout en racontant un mensonge flagrant.
+
+**Autres jets de Charisme**. Le MJ peut également demander un jet de Charisme lorsque vous essayez de réaliser l'une des tâches suivantes :
+
+- Trouver la meilleure personne pour obtenir des informations, des rumeurs, des ragots
+- Se fondre dans la foule pour obtenir une idée générale des sujets de conversations
+
+#### Capacité de lancer de sorts
+Les bardes, les ensorceleurs, les occultistes et les paladins utilisent le Charisme comme caractéristique d'incantation, ce qui permet de déterminer le DC des jets de sauvegarde des sorts qu'ils lancent.
+
+# Décrire son personnage
+Une fois que vous avez déterminer la base de jeu de votre personnage, il est temps de l'étoffer et de lui donner "vie". Votre personnage a besoin d'un nom ! Passez aussi quelques instants à réfléchir à quoi il ressemble et comment il se comporte.
